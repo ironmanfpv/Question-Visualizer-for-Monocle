@@ -76,7 +76,7 @@ Procedure to test if html fetches data from google sheet
 
 Credits/Acknowledgement
 
-This project is made possible by materialising a throught experiment, drawing inspiration from several community project/code snippets.
+This project is made possible by materialising a thought experiment, drawing inspiration from several community project/code snippets.
 From link : https://docs.brilliant.xyz/community/
 Some members to thank.
 1) Josuah (Techplumber with brilliant labs)
