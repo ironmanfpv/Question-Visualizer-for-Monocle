@@ -1,0 +1,83 @@
+[
+  {
+    "Number": 1,
+    "numOflines": 2,
+    "Question": [
+      "1 How old is Earth?",
+      "Alison"
+    ]
+  },
+  {
+    "Number": 2,
+    "numOflines": 2,
+    "Question": [
+      "2 How large is the sun ?",
+      "Bala"
+    ]
+  },
+  {
+    "Number": 3,
+    "numOflines": 2,
+    "Question": [
+      "3 How dense is iron ?",
+      "Calista"
+    ]
+  },
+  {
+    "Number": 4,
+    "numOflines": 2,
+    "Question": [
+      "4 What is the largest",
+      "prime under 20? Delia"
+    ]
+  },
+  {
+    "Number": 5,
+    "numOflines": 2,
+    "Question": [
+      "5 Is Aquaman nice to",
+      "watch? Estelle"
+    ]
+  },
+  {
+    "Number": 6,
+    "numOflines": 2,
+    "Question": [
+      "6 Why do we perspire ?",
+      "Florence"
+    ]
+  },
+  {
+    "Number": 7,
+    "numOflines": 3,
+    "Question": [
+      "7 How many islands are",
+      "there in Philipines ?",
+      "Germaine"
+    ]
+  },
+  {
+    "Number": 8,
+    "numOflines": 2,
+    "Question": [
+      "8 What are the common",
+      "factors of 90 ? Helen"
+    ]
+  },
+  {
+    "Number": 9,
+    "numOflines": 2,
+    "Question": [
+      "9 Do all insects undergo",
+      "metamorphasis ? Ignatia"
+    ]
+  },
+  {
+    "Number": 10,
+    "numOflines": 2,
+    "Question": [
+      "10 Is A.I approaching",
+      "Singularity ? Jarvis"
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Question Visualizer Q&A Page Load</title>
+    <meta charset="utf-20" />
+  </head>
+  <body>
+    <p>QASheets Page Load</p>
+    <p id="status">Device Not Connected</p>  <!--Device connection status-->
+    <!--Added buttons to initiate auth sequence and sign out-->
+    <div id="jsonContent"></div>
+    <button id="authorize_button" onclick="handleAuthClick()">Authorize</button>
+    <button id="signout_button" onclick="handleSignoutClick()">Sign Out</button><br>
+    <button id="connectBtn" onclick="connect()">Connect!</button>
+    <button id="DownloadBtn" onclick="listQuestionsAndWriteToFile()">Download</button>  <!--Downloads a data.json file-->
+    <button id="UploadBtn" onclick="listQuestionsAndUpload()">Upload</button>           <!--listQuestionsAndUpload() completed 2 Jan 2024-->
+    <!--div id="output_data" data-notes=" "--></div>
+    <pre id="content" style="white-space: pre-wrap;"></pre>
+
+    <script type="text/javascript">
+      /* exported gapiLoaded */
+      /* exported gisLoaded */
+      /* exported handleAuthClick */
+      /* exported handleSignoutClick */
+
+    </script>
+    <script src="./src/script.js"></script>                    <!--Handles button and display procedures--> 
+    <script src="./src/connect.js"></script>                   <!--Connects to Bluetooth-->
+    <script src="./src/download.js"></script>                  <!--Handles the functions that gets the downloadable data.json file-->
+    <script src="./src/upload.js"></script>                    <!--Handles the function of uploading file onto Monocle-->
+    <script async defer src="https://apis.google.com/js/api.js" onload="gapiLoaded()"></script>
+    <script async defer src="https://accounts.google.com/gsi/client" onload="gisLoaded()"></script>
+    
+  </body>
+</html>
