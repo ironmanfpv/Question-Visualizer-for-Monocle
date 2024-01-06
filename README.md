@@ -84,17 +84,17 @@ Monocle to traverse the uploaded questions.
 
 ## Credits/Acknowledgement ##
 
-This project is made possible by drawing inspiration from several community project conversations.
+This project started off from bouncing ideas off several discord members.
+Link :https://discord.gg/RtwpPjWPNN 
+and from project readings
 Link : https://docs.brilliant.xyz/community/  
-By applying design thinking and reading api references from 
+and finally by applying design thinking, reading api references from 
 Link : https://docs.brilliant.xyz/micropython/micropython/
 
 Some members to thank. 
 1) Josuah (Techplumber with brilliant labs) , for the numerous source reference and pointers.
 2) milesprovus (creator of Project Monocle Teleprompter) , for his project work flow explainations. 
-
-and also several other community members in Brilliant Lab Discord,forguidance and support. 
-and of course God, for inspiration and his big invisible hands.
-
+and also several other community members in Brilliant Lab Discord,for guidance and support. 
+and of course God, for HIS inspiration and his big invisible hands.
 
 5/1/2024 (Friday)
