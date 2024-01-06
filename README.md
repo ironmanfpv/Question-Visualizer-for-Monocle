@@ -19,8 +19,7 @@ to Monocle. Toggle forward and backward using the Touch buttons on
 Monocle to traverse the uploaded questions.
 
 <img src= "https://github.com/ironmanfpv/Project-Question-Visualizer-for-Monocle/blob/main/img/IMG_0.jpg">
-<img src="https://github.com/ironmanfpv/Project-Question-Visualizer-for-Monocle/blob/main/img/IMG_1.jpg" height="400" width="300">
-<img src="https://github.com/ironmanfpv/Project-Question-Visualizer-for-Monocle/blob/main/img/IMG_2.jpg" height="400" width="300">
+<img src="https://github.com/ironmanfpv/Project-Question-Visualizer-for-Monocle/blob/main/img/IMG_1.jpg" height="300" width="500"><img src="https://github.com/ironmanfpv/Project-Question-Visualizer-for-Monocle/blob/main/img/IMG_2.jpg" height="300" width="500">
 
 # SETUP STEPS: # 
 
