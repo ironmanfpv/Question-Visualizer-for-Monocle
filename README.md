@@ -63,7 +63,7 @@ Monocle to traverse the uploaded questions.
 6.  Under download.js, key in your Sheet ID and Sheet Range
 7.  Under upload.js, key in your Sheet ID and Sheet Range
 
-## Procedure to test if html fetches data from google sheet ##
+## Procedure to test if data is fetched from google sheet ##
 
 1.  At the project tab, click on index.html, close all other terminals
     and nodes.
@@ -93,14 +93,18 @@ Monocle to traverse the uploaded questions.
     Monocle by putting it back into the case and taking it out.)
 15. Alternatively, click upload ; Skips steps 9 \~ 12.
 
-Credits/Acknowledgement
+## Credits/Acknowledgement ##
 
-This project is made possible by materialising a thought experiment,
-drawing inspiration from several community project/code snippets. From
-link : https://docs.brilliant.xyz/community/ Some members to thank. 
-1) Josuah (Techplumber with brilliant labs) 
-2) milesprovus (creator of Project Monocle Teleprompter)
+This project is made possible by drawing inspiration from several community project conversations.
+Link : https://docs.brilliant.xyz/community/  
+By applying design thinking and reading api references from 
+Link : https://docs.brilliant.xyz/micropython/micropython/
 
-and also several other community members in Brilliant Lab Discord. for
-guidance and support. and of course God, for inspiration and his big
-invisible hands.
+Some members to thank. 
+1) Josuah (Techplumber with brilliant labs) , for the numerous source reference and pointers.
+2) milesprovus (creator of Project Monocle Teleprompter) , for explaining your project work flow. 
+
+and also several other community members in Brilliant Lab Discord,forguidance and support. 
+and of course God, for inspiration and his big invisible hands.
+
+5/1/2024 (Friday)
