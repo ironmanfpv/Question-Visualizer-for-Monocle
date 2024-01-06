@@ -71,16 +71,15 @@ Monocle to traverse the uploaded questions.
 7.  Click Authorise for authentication. Click continue at the prompts.
 8.  When the Connect! button appears, click it to pair to the Monocle by Bluetooth. 
     Upon pairing, the Download and Upload button appears.
-9.  Click Download to obtains a file named data.json that is in a readable format.
-10. Cut and past the data.json file to the project folder. 
+9.  Click Download to obtain a correctly formatted file named data.json.
+10. Cut and paste the data.json file to the project folder. 
 11. Sign out, close server, terminate node session.
-12. In VSCode, connect to monocle, click refresh to see the files currently in Monocle.
+12. In VSCode, connect to monocle using Brilliant AR studio, click refresh to see the files in Monocle.
 13. Upload main.py and data.json onto Monocle by right clicking the files, 
         Brilliant AR Studio: > Upload File To Device. 
 14. Done ! You are ready to see the questions raised by participants and
-    scroll through them. (Please note that you may have to reboot
-    Monocle by putting it back into the case and taking it out.)
-15. Alternatively, click upload ; Skips steps 9 \~ 12.
+    scroll through them. (Note that you might have to reboot Monocle.)
+15. Alternatively, click upload ; Skips steps 9 \~ 12. 
 16. Refresh > Connect > Upload ; helps you to curate new submitted questions.
 
 ## Credits/Acknowledgement ##
