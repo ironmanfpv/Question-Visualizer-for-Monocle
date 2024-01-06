@@ -2,14 +2,13 @@ Question Visualizer for Q&A for Monocle.
 
 Imagine one of two scenarios:
 
-Scenario one: You are giving a briefing or a presentation. Your
-audience have questions pertaining to what you shared but they cannot ask you directly. 
+Scenario one: You are giving a briefing or a presentation. 
+Your audience have questions pertaining to what you shared but they are not able to raise it at the point of time. 
 You share with them a Google Sheet for them to key in their questions. You have their questions in view.
 You handle them at an interim juncture.
 
-Scenario two : You are a teacher/lecturer teaching a lesson. Your
-students have questions. They hesitate to raise them as the group size is 
-huge and they are processing their thoughts, trying to phrase their questions. 
+Scenario two : You are a teacher/lecturer teaching a lesson. Your students have questions. 
+They hesitate to raise them as the group size is huge and they are processing their thoughts,trying to phrase their questions. 
 You share with them a Google Sheet for them to key in their questions. You have their questions in view. 
 You handle them at a Q&A segment.
 
@@ -28,13 +27,12 @@ Monocle to traverse the uploaded questions.
 
 1.  Ensure Node, NPM are installed.
 2.  Create a Google Cloud Project at http://cloud.google.com/
-3.  In the Google Cloud console, go to menu\>API &
-    Services\>Credentials.
-4.  Create your OAuth client ID : Call it Web Client 1 (Name of your
-    choice)
-5.  Click the named Web application ; (Web Client 1): Authorised
-    JavaScript origins \> URL 1 : http://localhost:8000 Authorised
-    redirect URIs \> URL 1 : http://localhost:8000/
+3.  In the Google Cloud console, go to menu\>API &Services\>Credentials.
+4.  Create your OAuth client ID : 
+        Call it Web Client 1 (Name of your choice)
+5.  Click the named Web application ; (Web Client 1): 
+        Authorised  JavaScript origins \> URL 1 : http://localhost:8000 Authorised
+        Redirect URIs \> URL 1 : http://localhost:8000/
 6.  Click Create or Save
 7.  Note your CLient ID
 
@@ -45,8 +43,7 @@ Monocle to traverse the uploaded questions.
 3.  Note your API keys
 
 ## Create a google sheet ## 
-1. Create a 3 column 31 row googlesheet
-(Size of sheet ; rows is up to you) 
+1. Create a 3 column 31 row googlesheet (Size of sheet ; rows is up to you) 
 2. First column Title : Number 
 3. Second column TItle : Question 
 4. Third column TItle : Participant 
