@@ -1,5 +1,4 @@
 Question Visualizer for Q&A for Monocle. 
-A community project by Akitaishi
 
 Imagine one of two scenarios:
 
