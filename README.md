@@ -54,7 +54,7 @@ Monocle to traverse the uploaded questions.
 1.  Install Python.
 2.  Install VS code and all its relevant extensions. 
         Extensions : Python, node, Brilliant AR Studio etc.
-3.  Run a copy of this project from GitHub repository.
+3.  In VS Code, run a copy of this project from GitHub repository.
 4.  Under script.js, key in your Client ID and API keys.
 5.  Under download.js, key in your Sheet ID and Sheet Range.
 6.  Under upload.js, key in your Sheet ID and Sheet Range.
@@ -75,12 +75,12 @@ Monocle to traverse the uploaded questions.
 11. Sign out, close server, terminate node session.
 12. In VSCode, connect to monocle, click refresh to see the files currently in Monocle.
 13. Upload main.py and data.json onto Monocle by right clicking the files, 
-        Brilliant AR Studio: > Upload File To Device. (main.py is modelled after 
-        Project Monocle Teleprompter for maximum interoperability)
-14. Done ! You are read to see the questions raised by the students and
-    scroll through them. (Please note that you Will have to reboot
+        Brilliant AR Studio: > Upload File To Device. 
+14. Done ! You are ready to see the questions raised by participants and
+    scroll through them. (Please note that you may have to reboot
     Monocle by putting it back into the case and taking it out.)
 15. Alternatively, click upload ; Skips steps 9 \~ 12.
+16. Refresh > Connect > Upload ; helps you to curate new submitted questions.
 
 ## Credits/Acknowledgement ##
 
@@ -95,5 +95,6 @@ Some members to thank.
 
 and also several other community members in Brilliant Lab Discord,forguidance and support. 
 and of course God, for inspiration and his big invisible hands.
+
 
 5/1/2024 (Friday)
