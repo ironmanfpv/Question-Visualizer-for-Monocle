@@ -3,15 +3,16 @@ A community project by Akitaishi
 
 Imagine one of two scenarios:
 
-Scenario one: You are a giving a briefing and presentation. Your
-audience have questions. You share with them a Google Sheet for them to
-key in their questions. You handle them at an interim juncture.
+Scenario one: You are giving a briefing or a presentation. Your
+audience have questions pertaining to what you shared but they cannot ask you directly. 
+You share with them a Google Sheet for them to key in their questions. You have their questions in view.
+You handle them at an interim juncture.
 
 Scenario two : You are a teacher/lecturer teaching a lesson. Your
 students have questions. They hesitate to raise them as the group size is 
 huge and they are processing their thoughts, trying to phrase their questions. 
-You share with them a Google Sheet for them to key in their questions. You handle them
-at a Q&A segment.
+You share with them a Google Sheet for them to key in their questions. You have their questions in view. 
+You handle them at a Q&A segment.
 
 This app allows you to collate the questions from the shared Google
 Sheets using Google Sheets API. The questions are listed and numbered as
