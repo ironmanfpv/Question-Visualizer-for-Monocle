@@ -91,7 +91,7 @@ Link : https://docs.brilliant.xyz/micropython/micropython/
 
 Some members to thank. 
 1) Josuah (Techplumber with brilliant labs) , for the numerous source reference and pointers.
-2) milesprovus (creator of Project Monocle Teleprompter) , for explaining your project work flow. 
+2) milesprovus (creator of Project Monocle Teleprompter) , for his project work flow explainations. 
 
 and also several other community members in Brilliant Lab Discord,forguidance and support. 
 and of course God, for inspiration and his big invisible hands.
