@@ -30,9 +30,9 @@ Monocle to traverse the uploaded questions.
 3.  In the Google Cloud console, go to menu\>API &Services\>Credentials.
 4.  Create your OAuth client ID : 
         Call it Web Client 1 (Name of your choice).
-5.  Click the named Web application ; (Web Client 1): 
-        Authorised  JavaScript origins \> URL 1 : http://localhost:8000 Authorised
-        Redirect URIs \> URL 1 : http://localhost:8000/
+5.  Click the named Web application ; (Web Client 1):
+        Authorised  JavaScript origins \> URL 1 : http://localhost:8000 
+        Authorised  Redirect URIs \> URL 1 : http://localhost:8000/
 6.  Click Create or Save.
 7.  Note your CLient ID.
 
