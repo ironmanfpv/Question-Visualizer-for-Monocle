@@ -51,14 +51,13 @@ Monocle to traverse the uploaded questions.
 
 ## Download Code IDE and installations  ##
 
-1.  Install Node.
-2.  Install python.
-3.  Install VS code and all its relevant extensions Extensions : Python,
-    node, Brilliant AR Studio etc.
-4.  Run a copy of this project from GitHub repository.
-5.  Under script.js, key in your Client ID and API keys.
-6.  Under download.js, key in your Sheet ID and Sheet Range.
-7.  Under upload.js, key in your Sheet ID and Sheet Range.
+1.  Install Python.
+2.  Install VS code and all its relevant extensions. 
+        Extensions : Python, node, Brilliant AR Studio etc.
+3.  Run a copy of this project from GitHub repository.
+4.  Under script.js, key in your Client ID and API keys.
+5.  Under download.js, key in your Sheet ID and Sheet Range.
+6.  Under upload.js, key in your Sheet ID and Sheet Range.
 
 ## Procedure to test if data is fetched ##
 
