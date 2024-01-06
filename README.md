@@ -18,8 +18,9 @@ they are sequenced in the Google Sheet. The webapp uploads the questions
 to Monocle. Toggle forward and backward using the Touch buttons on
 Monocle to traverse the uploaded questions.
 
-<img src= "https://github.com/ironmanfpv/Project-Question-Visualizer-for-Monocle/blob/main/img/IMG_0.jpg">
-<img src="https://github.com/ironmanfpv/Project-Question-Visualizer-for-Monocle/blob/main/img/IMG_1.jpg" height="300" width="500"><img src="https://github.com/ironmanfpv/Project-Question-Visualizer-for-Monocle/blob/main/img/IMG_2.jpg" height="300" width="500">
+<img src= "https://github.com/ironmanfpv/Project-Question-Visualizer-for-Monocle/blob/main/img/IMG_0.jpg"height="300" width="600">
+<img src="https://github.com/ironmanfpv/Project-Question-Visualizer-for-Monocle/blob/main/img/IMG_1.jpg" height="300" width="600">
+<img src="https://github.com/ironmanfpv/Project-Question-Visualizer-for-Monocle/blob/main/img/IMG_2.jpg" height="300" width="600">
 
 # SETUP STEPS: # 
 
@@ -64,7 +65,7 @@ Monocle to traverse the uploaded questions.
 1.  At the project tab, click on index.html, close all other terminals and nodes.
 2.  Call up a terminal.
 3.  In your working directory prompt, type node.
-4.  In your working directory prompt, install the http-server package by typing in the terminnal : npm install http-server
+4.  In your working directory prompt, install the http-server package by typing : npm install http-server
 5.  In your working directory prompt, start a web server: npx http-server -p 8000
 6.  In your browser, navigate to http://localhost:8000
 7.  Click Authorise for authentication. Click continue at the prompts.
@@ -91,7 +92,7 @@ and finally by applying design thinking, reading api references from
 Link : https://docs.brilliant.xyz/micropython/micropython/
 
 Some members to thank:
- 
+
 1) Josuah (Techplumber with brilliant labs) , for the numerous source reference and pointers.
 2) milesprovus (creator of Project Monocle Teleprompter) , for his project work flow explainations. 
 and also several other community members in Brilliant Lab Discord https://discord.gg/RtwpPjWPNN ,for guidance and support. 
