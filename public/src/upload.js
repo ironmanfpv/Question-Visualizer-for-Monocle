@@ -33,7 +33,7 @@ async function listQuestionsAndUpload() {
     return {
       Number: questionNumber,
       numOflines: formattedLines.length,
-      Question:   formattedLines.concat(questionAuthor) 
+      Question: questionAuthor ? formattedLines.concat(questionAuthor) : formattedLines, // With option for participant to be anonymous
     };
   });
 
